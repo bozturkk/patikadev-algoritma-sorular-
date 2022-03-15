@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/bin/Debug/net6.0/Odev1
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/bin/Debug/net6.0/Odev1.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/bin/Debug/net6.0/Odev1.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/bin/Debug/net6.0/Odev1.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/bin/Debug/net6.0/Odev1.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/obj/Debug/net6.0/Odev1.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/obj/Debug/net6.0/Odev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/obj/Debug/net6.0/Odev1.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/obj/Debug/net6.0/Odev1.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/obj/Debug/net6.0/Odev1.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/obj/Debug/net6.0/Odev1.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/obj/Debug/net6.0/refint/Odev1.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/obj/Debug/net6.0/Odev1.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/obj/Debug/net6.0/Odev1.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/Odev1/obj/Debug/net6.0/ref/Odev1.dll
